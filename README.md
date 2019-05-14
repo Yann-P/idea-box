@@ -34,4 +34,4 @@ npm i
 npm run autobuild  # the client is live-reload enabled
 ```
 
-Running the backend: see Dockerfile if you want to run it without Docker.
+Running the backend: `go run main.go`
